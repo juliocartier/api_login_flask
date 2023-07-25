@@ -8,8 +8,8 @@ Foi realizado a criação de uma api de login simples com a criptogração da se
 
 ## Features
 
-- Criar usuário - email e password.
-- Login - Email e password.
+- Criar usuário com email e password.
+- Realizar login com email e password.
 
 ## Technologies
 
